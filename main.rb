@@ -34,8 +34,9 @@ puts.temp.ceil
 # 4.0 Boolean
 # TODO: True / Truthy
 
+isTuesday = true
 # TODO: False / Falsy
-
+isWednesday = false
 # 5.0 Symbols
 # TODO: Create symbol
 
