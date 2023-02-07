@@ -10,9 +10,11 @@ pp [1,2,3]
 # 2.0 Strings
 # TODO: CREATE A STRING
 last_name = 'Doe'
+
 # TODO: CREATE A STRING WITH SINGLE QUOTES
 
 # TODO: INTERPOLATE STRINGS
+full_name = "First Name is #{first_name}"
 
 # TODO: String methods (upcase, downcase, capitalize)
 
