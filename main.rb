@@ -39,6 +39,7 @@ isTuesday = true
 isWednesday = false
 # 5.0 Symbols
 # TODO: Create symbol
+:green
 
 
 # 6.0 Arrays
