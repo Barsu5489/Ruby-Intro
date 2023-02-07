@@ -23,10 +23,13 @@ puts full_name.capitalize
 # 3.0 Numbers
 # TODO: Integers
 
+height = 100
 # TODO: Float
+temp = 55.5
 
 # TODO: Number methods (floor, ceil, to_i, to_f)
-
+puts temp.floor
+puts.temp.ceil
 
 # 4.0 Boolean
 # TODO: True / Truthy
