@@ -10,17 +10,16 @@ pp [1,2,3]
 # 2.0 Strings
 # TODO: CREATE A STRING
 last_name = 'Doe'
-first_name = 'JOHN'
+first_name = 'John'
 # TODO: CREATE A STRING WITH SINGLE QUOTES
 
 # TODO: INTERPOLATE STRINGS
-full_name = "FIRST NAME IS #{first_name}"
-
+full_name = "First Name is #{first_name}. Last Name is #{last_name}"
 
 
 # TODO: String methods (upcase, downcase, capitalize)
-puts full_name.upcase
-puts full_name.downcase
+
+puts full_name.capitalize
 # 3.0 Numbers
 # TODO: Integers
 
